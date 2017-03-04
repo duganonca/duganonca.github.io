@@ -3,3 +3,19 @@ body {
     height: 100%;
     margin: 0;
 }
+
+button#fn {
+     background-color: #FFFFFF;
+}
+button#fa {
+    background-color: #FFFFFF;
+}
+button#twitter {
+    background-color: #FFFFFF;
+}
+button#telegram {
+    background-color: #FFFFFF;
+}
+button#stickers {
+    background-color: #FFFFFF;
+}
